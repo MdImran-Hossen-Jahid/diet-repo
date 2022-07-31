@@ -1,0 +1,39 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.order-section {
+    display: flex;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.order-button {
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 27px;
+    color: white;
+    padding: 25px 29px;
+    font-size: 20px;
+}
+
+.half-width h1 {
+    font-size: 50px;
+    margin-top: 184px;
+}
+
+.half-width h4 {
+    font-size: 16px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 55px;
+}
+
+.half-width img {
+    width: 100%;
+    margin-left: 20px;
+}
