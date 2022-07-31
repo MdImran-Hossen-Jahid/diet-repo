@@ -37,3 +37,92 @@ body {
     width: 100%;
     margin-left: 20px;
 }
+
+.contact-item {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ladis-corner {
+    width: 26%;
+    margin-left: 131px;
+}
+
+.ladis-corner img {
+    width: 100%;
+}
+
+.contact-part {
+    width: 37%;
+    margin-left: 203px;
+}
+
+.contact-part h1 {
+    font-size: 40px;
+}
+
+.contact-part p {
+    font-size: 19px;
+}
+
+.contact-button {
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 27px;
+    color: white;
+    padding: 25px 29px;
+    font-size: 20px;
+}
+
+.recipie-image {
+    display: flex;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.making-food {
+    width: 40%;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 42px;
+    margin-left: 93px;
+}
+
+.making-food img {
+    width: 94%;
+    padding: 16px;
+}
+
+.making-food h2 {
+    padding-left: 19px;
+}
+
+.making-food p {
+    padding-left: 19px;
+    padding-bottom: 48px;
+}
+
+.egg-food {
+    width: 40%;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 42px;
+    margin-left: 79px;
+}
+
+.egg-food img {
+    width: 94%;
+    padding: 16px;
+}
+
+.egg-food h2 {
+    padding-left: 19px;
+}
+
+.egg-food p {
+    padding-left: 19px;
+    padding-bottom: 48px;
+}
