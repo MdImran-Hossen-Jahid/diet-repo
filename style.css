@@ -129,7 +129,7 @@ body {
 
 .social-media {
     display: flex;
-    box-shadow: lightgrey 5px 5px 38px;
+    box-shadow: 5px 5px 38px lightgrey;
     width: 83%;
     margin-left: 120px;
     margin-top: 89px;
